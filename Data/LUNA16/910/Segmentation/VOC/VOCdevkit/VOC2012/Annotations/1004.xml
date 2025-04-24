@@ -1,0 +1,18 @@
+<annotation>
+	<folder>VOC</folder>
+	<filename>1004.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>PN</name>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>232</ymin>
+			<xmax>162</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>
