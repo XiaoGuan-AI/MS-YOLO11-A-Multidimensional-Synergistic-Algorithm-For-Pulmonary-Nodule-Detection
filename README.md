@@ -6,13 +6,13 @@
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Original Author Statement
 
 This project is currently under **scientific publication submission**. It is shared **only for academic and educational purposes**.
 
 > **Do not use this project for publication or commercial purposes.**
 >
-> For special requests or collaborations, please contact the author via email: **18313572890@163.com**
+> For special requests or collaborations, please contact me via email: **18313572890@163.com**
 
 ---
 
